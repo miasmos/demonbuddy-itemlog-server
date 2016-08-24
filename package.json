@@ -1,0 +1,25 @@
+{
+  "name": "diablo-loots-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "irc": "^0.3.7",
+    "node-twitchtv": "^0.0.4",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "diablo",
+    "loots",
+    "bot",
+    "node",
+    "loot"
+  ],
+  "author": "Stephen Poole",
+  "license": "MIT"
+}
